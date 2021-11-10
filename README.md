@@ -24,7 +24,7 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* PGS.TS. **Mai Tiến Dũng** - *dungmt@uit.edu.vn*
+**Mai Tiến Dũng** - *dungmt@uit.edu.vn*
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
