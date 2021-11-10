@@ -30,8 +30,8 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|--------------------------------------------------------:|-------------------------:
-| 1      | 19522531      | Nguyễn Trọng Thoại     |                                                         |                         |
-| 2      | 19521536      | Lê Thành Luân          |                                                         |                         |
+| 1      |               | Nguyễn Trọng Thoại     |                                                         |                         |
+| 2      |               | Lê Thành Luân          |                                                         |                         |
 | 3      | 19522154      | Nguyễn Văn Tài         |[nguyentai090301](https://github.com/nguyentai090301)    |19522154@gm.uit.edu.vn   |
 ## ĐỒ ÁN CUỐI KỲ
 - PHÁT HIỆN VÀ NHẬN DẠNG KHUÔN MẶT
